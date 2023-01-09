@@ -1,0 +1,11 @@
+[submodule "themes/hugo-PaperMod"]
+	path = themes/hugo-PaperMod
+	url = https://github.com/adityatelange/hugo-PaperMod.git
+[submodule "sinelmo.github.io"]
+	path = sinelmo.github.io
+	url = https://github.com/sinelmo/sinelmo.github.io.git
+	branch = main
+[submodule "public"]
+	path = public
+	url = https://github.com/sinelmo/sinelmo.github.io.git
+	branch = main
