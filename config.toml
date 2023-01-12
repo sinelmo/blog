@@ -48,7 +48,7 @@ tocopen = false
 
   [params.label]
   text = "Home"
-  icon = "/apple-touch-icon.png"
+  icon = ""
   iconHeight = 35
 
   [params.profileMode]
