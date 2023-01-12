@@ -1,5 +1,5 @@
-baseURL = 'https://sinelmo.github.io/'
-title = "ExampleSite"
+baseURL = "https://sinelmo.github.io/"
+title = "Elmo's Blog"
 paginate = 5
 theme = "hugo-PaperMod"
 enableRobotsTXT = true
