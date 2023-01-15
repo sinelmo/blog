@@ -1,10 +1,10 @@
 ---
 title: "My 1st post"
-date: 2020-09-15T11:30:03+00:00
+date: 2023-01-15 13:47:34.139 +0900
 # weight: 1
 # aliases: ["/first"]
 tags: ["first"]
-author: "Me"
+author: "Elmo"
 # author: ["Me", "You"] # multiple authors
 showToc: true
 TocOpen: false
