@@ -71,7 +71,7 @@ tocopen = false
 
   [params.homeInfoParams]
   Title = "Hi there 👋"
-  Content = "Welcome to my blog"
+  Content = "Welcome to Elmo's blog"
 
   [[params.socialIcons]]
   name = "twitter"
