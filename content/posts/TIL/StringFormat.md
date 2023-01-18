@@ -3,6 +3,7 @@ title: "[java] StringFormat, replace | 프로그래머스 코딩테스트 1단�
 date: 2023-01-18T23:37:57+09:00
 # weight: 1
 # aliases: ["/first"]
+categories: ["TIL"]
 tags: ["TIL", "ProgrammersCodingTest", "java", "StringFormat"]
 author: "Elmo"
 # author: ["Me", "You"] # multiple authors
@@ -25,13 +26,10 @@ ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 cover:
-    image: "<image path/url>" # image path/url
-    alt: "<alt text>" # alt text
-    caption: "<text>" # display caption under cover
     relative: false # when using page bundles set this to true
     hidden: true # only hide on current single page
 editPost:
-    URL: "https://github.com/<path_to_repo>/content"
+    URL: "https://github.com/sinelmo/blog/tree/main/content"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 ---
